@@ -1,0 +1,1262 @@
+{
+  "settingsScreenTexts": {
+    "screenTitle": "সেটিং",
+    "notificationTitle": "নোটিফিকেশন",
+    "languageTitle": "ভাষা",
+    "ListingApprovalNotiTitle": "Ads Approval",
+    "newsletterNotiTitle": "Newsletter",
+    "messageNotiTitle": "New Chat",
+    "reminderBeforeListingExpire": "Reminder before ads expire",
+    "expiredListingNotification": "Expired Listing",
+    "onlyAdmin": {
+      "newListing": "New Ads",
+      "newOrder": "New Orders",
+      "newComment": "New Comment"
+    },
+    "logoutbuttonTitle": "লগ আউট",
+    "viewStyleTitle": "Listing display style",
+    "listView": "List View"
+  },
+  "screenTitles": {
+    "accountScreen": "একাউন্ট",
+    "chatScreen": "চ্যাট",
+    "loginScreen": "লগ ইন",
+    "signUpScreen": "সাইন আপ",
+    "settingsScreen": "সেটিংস",
+    "myListingsScreen": "আমার বিজ্ঞাপন",
+    "favoritesScreen": "প্রিয় বিজ্ঞাপন",
+    "reportScreen": "অভিযোগ",
+    "myMembershipScreen": "আমার মেম্বারশিপ",
+    "contactUsScreen": "যোগাযোগ করুন",
+    "fAQScreen": "সাধারণ প্রশ্ন উত্তর",
+    "howtoSellFastScreen": "দ্রুত বিক্রয়ের পরামর্শ",
+    "moreScreen": "আরো অপশন",
+    "myProfileScreen": "প্রোফাইল",
+    "editPersonalDetailScreen": "ব্যাক্তিগত তথ্য হালনাগাদ",
+    "aboutAppScreen": "ক্লাসিমা",
+    "tNCScreen": "টার্মস এবং কন্ডিশন",
+    "privacyPolicyScreen": "গোপনীয়তা নীতি",
+    "thirdPartyLicensesScreen": "তৃতীয়পক্ষ লাইসেন্স",
+    "editListingScreen": "বিজ্ঞাপন হালনাগাদ",
+    "selectLocationScreen": "স্থান নির্বাচন",
+    "sendEmailScreen": "ইমেইল পাঠান",
+    "selectCategoryScreen": "ক্যাটাগরি নির্বাচন",
+    "storeDetailsScreen": "দোকানের বিস্তারিত তথ্য",
+    "storeMoreDetailsScreen": "আরো বিষদ তথ্য",
+    "allStores": "সকল দোকান সমূহ",
+    "myStoreScreen": "আমার দোকান",
+    "membershipsScreen": "সদস্যপদ প্যাকেজ",
+    "paymentMethodScreen": "বিস্তারিত",
+    "promoteScreen": "প্রোমোট",
+    "paymentsScreen": "পেমেন্ট",
+    "paymentDetailScreen": "বিস্তারিত"
+  },
+
+  "adMobTexts": {
+    "okButton": "OK",
+    "appDisabledAlert": "This app delivers you ads using google AdMob. You need to enable tracking permission in order to use this app. Go to permission settings and allow tracking for this app",
+    "appDisabledText": "You can not use this app without viewing Ads. To use this app, please go to settings and enable tracking permission for this app"
+  },
+
+  "headerBackButtonTitle": "Back",
+
+  "weekDayNames": {
+    "0": "রবিবার",
+    "1": "সোমবার",
+    "2": "মঙ্গলবার",
+    "3": "বুধবার",
+    "4": "বৃহস্পতিবার",
+    "5": "শুক্রবার",
+    "6": "শনিবার"
+  },
+  "alerts": {
+    "notificationRegistrationFail": "Failed to register device for push notification",
+    "notificationPermission": "You must allow notifications to get push notification.",
+    "simulatorAlert": "Must use physical device for Push Notifications"
+  },
+
+  "tabTitles": {
+    "home": "হোম",
+    "search": "সার্চ",
+    "chatList": "চ্যাট লিস্ট",
+    "account": "একাউন্ট"
+  },
+
+  "accountScreenTexts": {
+    "loginButtonText": "লগ ইন",
+    "logOutButtonText": "লগ আউট",
+    "successMessage": "লগ আউত সফল হয়েছে।"
+  },
+
+  "allStoresTexts": {
+    "loadingText": "দোকানের উপাত্য সংগ্রহ করা হচ্ছে",
+    "noShopText": "দুঃখিত! কোন দোকান পাওয়া যায়নি",
+    "storeAdCount": "বিজ্ঞাপন"
+  },
+
+  "chatListScreenTexts": {
+    "noChatTitleMessage": "বর্তমানে আপনার কোন চ্যাট নেই।",
+    "noChatMessage": "বেচা কেনা শুরু করুন!",
+    "deletePromptMessage": "আপনি কি আসলেই এই চ্যাট টি ডিলিট করতে চান??",
+    "cancelButtonTitle": "বাতিল",
+    "deleteButtonTitle": "ডিলিট",
+    "noUserMessage": "একন আপনি লগ ইন অবস্থায় নেই।\nচ্যাট তালিকা পেতে দয়া করে লগ ইন করুন।",
+    "loadingMessage": "আপনার চ্যাট লিস্ট সংগ্রহ করা হচ্ছে",
+    "chatDeleteSuccessText": "সফল ভাবে ডিলিট হয়েছে।",
+    "chatDeleteErrorText": "সমস্যা হয়েছে! দয়া করে আবার চেষ্টা করুন।",
+    "offlineNoticeText": "আপনি অফলাইন!",
+    "loginButtonTitle": "লগ ইন",
+    "scrollToRefresh": "রিফ্রেশ করতে স্ক্রল করুন।"
+  },
+
+  "chatScreenTexts": {
+    "loadingMessage": "ম্যাসেজ সংগ্রহ করা হচ্ছে",
+    "dactivatedMessage": "গ্রহীতা আলাপনটি ডিলিট করেছে",
+    "placeholder": {
+      "message": "মেসেজ টাইপ করুন"
+    }
+  },
+
+  "contactUsScreenTexts": {
+    "sendmessageButtontitle": "বার্তা পাঠান",
+    "successMessage": "সফল ভাবে বার্তা পাঠানো হয়েছে",
+    "customServerResponseError": "সার্ভার সমস্যা!",
+    "formData": {
+      "name": {
+        "label": "নাম",
+        "placeholder": "আপনার নাম...",
+        "errorLabel": "নাম"
+      },
+      "phone": {
+        "label": "ফোন নাম্বার",
+        "placeholder": "ফোন নাম্বার দিন...",
+        "errorLabel": "ফোন নাম্বার"
+      },
+      "email": {
+        "label": "ইমেইল",
+        "placeholder": "example@email.com",
+        "errorLabel": "ইমেইল"
+      },
+      "message": {
+        "label": "মেসেজ",
+        "placeholder": "আপনার মেসেজ লিখুন...",
+        "errorLabel": "মেসেজ"
+      }
+    },
+    "formValidation": {
+      "requiredField": "আবশ্যক।",
+      "minimumLength5": "কমপক্ষে ৫ অক্ষর হতে হবে।",
+      "minimumLength3": "কমপক্ষে ৩ অক্ষর হতে হবে।",
+      "validEmail": "ইমেইল ফরমেট ঠিক নেই।"
+    }
+  },
+
+  "editListingScreenTexts": {
+    "title": "লিস্টিং হালনাগাদ",
+    "formFieldLabels": {
+      "listingTitle": "শিরোনাম",
+      "pricingLabel": "মূল্যায়ন ধরণ",
+      "priceType": "মূল্যের ধরন",
+      "price": "মূল্য",
+      "maxPrice": "সর্বোচ্চ মূল্য",
+      "listingDescription": "বিবরণ",
+      "videoUrl": "ভিডিও লিংক",
+      "contact": "যোগাযোগের তথ্য",
+      "zipCode": "পোস্টাল কোড",
+      "address": "ঠিকানা",
+      "phone": "ফোন নাম্বার",
+      "whatsapp": "হোয়াটসএপ",
+      "email": "ইমেইল",
+      "website": "ওয়েবসাইট",
+      "name": "নাম",
+      "imageInput": "ছবি",
+      "formTitle": "পণ্য সম্পর্কিত তথ্যাদি"
+    },
+    "formValidation": {
+      "requiredField": "আবশ্যক।",
+      "minimumLength5": "কমপক্ষে ৫ অক্ষর হতে হবে।",
+      "minimumLength3": "কমপক্ষে ৩ অক্ষর হতে হবে।",
+      "validEmail": "ইমেইল ফরমেট ঠিক নেই।",
+      "validUrl": "URL ফরমেট ঠিক নেই।"
+    },
+    "buttonTitles": {
+      "tryAgain": "পুনরায় চেষ্টা করুন",
+      "updateListing": "হালনাগাদ করুন",
+      "mapStandard": "স্ট্যান্ডার্ড",
+      "mapHybrid": "হাইব্রিড"
+    },
+    "mapToggleMessage": "ম্যাপ লুকিয়ে রাখুন।",
+    "whatsappNote": "কান্ট্রি কোড সহ হোয়াটসএপ নাম্বার। যেমন +1xxxxxxxxxx",
+    "uploadErrorNotice": "আপলোডিং এ সমস্যা হয়েছে! দয়া করে আবার চেষ্টা করুন। ",
+    "uploadingNotice": "এটা আপনার ইন্টারনেট সংযোগের গতির উপর নির্ভর করে সময় নিবে...",
+    "maxImageCount": "আপনি আপলোড করতে পারবেন সর্বোচ্চ ",
+    "images": " টি ছবি।",
+    "dragAndSort": "ছবি পুনরায় সাজানর জন্য টিপে ধরে রেখে টানুন।",
+    "loading": "বিজ্ঞাপনের তথ্য সংগ্রহ করা হচ্ছে।",
+    "geoCoderFail": "ম্যাপ সার্ভিসে সমস্যা হয়েছে।",
+    "imageFieldCustomError": "ছবি দেয়া আবশ্যক",
+    "requiredFieldCustomError": "এই তথ্য টি দেয়া আবশ্যক",
+    "websiteErrorLabel": "সঠিক লিংক প্রবেশ করান!",
+    "videoUrlErrorLabel": "ভিডিও লিংক ফরমেট সঠিক নেই!",
+    "videoUrlNote": "যেমনঃ https://www.youtube.com/watch?v=RiXdDGk_XCU",
+    "requiredFieldNotice": "*** লাল তারকা খচিত তথ্য গুলি ডেটা আবশ্যক ***",
+    "socialProfileTitle": "সামাজিক প্রোফাইল সমূহ"
+  },
+
+  "editPersonalDetailScreenTexts": {
+    "screenTitle": "ব্যাক্তিগত তথ্য",
+    "changePhotoButtonTitle": "ছবি বদল করুন",
+    "updateDetailsButtonTitle": "তথ্য হালনাগাদ",
+    "passwordToggleText": "কটুশব্দ পরিবর্তন",
+    "passwordNotSameMessage": "কটুশব্দ মিলছে না!",
+    "successText": "সঠিক ভাবে হালনাগাদ করা হয়েছে",
+    "errorText": "সমস্যা হয়েছে! আবার চেষ্টা করুন",
+    "cancelButtonTitle": "বাতিল",
+    "addPhotoTitle": "ছবি বাছাই করুন",
+    "takePhotoButtonTitle": "ছবি তুলুন",
+    "fromGalleryButtonTitle": "গ্যালারি",
+    "fieldLabels": {
+      "firstName": "ফার্স্ট নেম",
+      "lastName": "লাস্ট নেম",
+      "changePassword": "কটুশব্দ পরিবর্তন",
+      "newPassword": "নতুন কটুশব্দ",
+      "confirmPassword": "কটুশব্দ কনফার্ম করুন",
+      "phone": "ফোন নাম্বার",
+      "whatsapp": "হোয়াটসএপ নাম্বার",
+      "website": "ওয়েবসাইট",
+      "zipcode": "পোস্টাল কোড",
+      "address": "ঠিকানা",
+      "locations": "স্থান",
+      "password": "কটুশব্দ"
+    },
+    "formValidation": {
+      "requiredField": "আবশ্যক।",
+      "minimumLength5": "কমপক্ষে ৫ অক্ষর হতে হবে।",
+      "minimumLength3": "কমপক্ষে ৩ অক্ষর হতে হবে।",
+      "validUrl": "URL ফরমেট ঠিক নেই।"
+    },
+    "enterNewPassword": "নতুন কটুশব্দ দিন",
+    "reEnterPassword": "আবার কটুশব্দ দিন",
+    "cameraRollPermissionAlert": "এই ফিচার ব্যাবহার করতে হলে স্টোরেজ পারমিশন চালু করতে হবে।",
+    "cameraPermissionAlert": "এই ফিচার ব্যাবহার করতে হলে ক্যামেরা পারমিশন চালু করতে হবে।"
+  },
+
+  "favoritesScreenTexts": {
+    "removePromptMessage": "এই বিজ্ঞাপনটি প্রিয় এর তালিকা হতে রিমোভ করতে চান??",
+    "cancelButtonTitle": "বাতিল",
+    "removeButtonTitle": "বাদ দিন",
+    "noFavoriteMessage": "আপনার কোন প্রিয় বিজ্ঞাপন নেই।",
+    "postAdButtonTitle": "বিজ্ঞাপন পোষ্ট করুন",
+    "loadingMessage": "প্রিয় তালিকা সংগ্রহ করা হচ্ছে",
+    "favRemoveSuccessMessage": "সফল ভাবে রিমোভ হয়েছে।",
+    "favRemoveErrorCustomMessage": "সমস্যা হয়েছে। আবার চেষ্টা করুন।",
+    "customServerResponseError": "সার্ভার থেকে দাতা পেতে সমস্যা হয়েছে।",
+    "noInternet": "ইন্টারনেট নেই।"
+  },
+
+  "homeScreenTexts": {
+    "seAllButtonText": "সবগুলি দেখুন",
+    "loadingMessage": "বিজ্ঞাপন গুলি লোড হচ্ছে",
+    "listingSearchPlaceholder": "সার্চ",
+    "noListingsMessage": "দুঃখিত... কোন বিজ্ঞাপন পাওয়া যায়নি।",
+    "selectLocationText": "স্থান",
+    "latestAdsText": "সর্বশেষ বিজ্ঞাপন",
+    "topCategoriesText": "শির্ষস্থানীর ক্যাটাগরি",
+    "requestTimedOut": "রিকোয়েস্ট টি মেয়াদ উত্তীর্ণ হরেছে।"
+  },
+
+  "listingDetailScreenTexts": {
+    "loadingText": "বিস্তারিত তথ্য সংগ্রহ করা হচ্ছে",
+    "soldOutMessage": "বিক্রয় শেষ",
+    "cancelButtonTitle": "বাতিল",
+    "loginButtonTitle": "লগ ইন",
+    "pageTitle": "বিস্তারিত",
+    "showLess": "কম দেখুন",
+    "showMore": "আরও দাখুন",
+    "sellerPrefix": "বিক্রেতা ",
+    "description": "বিবরণ",
+    "mapButtons": {
+      "standard": "স্ট্যান্ডার্ড",
+      "hybrid": "হাইব্রিড"
+    },
+    "reportAd": "অভিযোগ করুন",
+    "similar": "একই রকম বিজ্ঞাপন",
+    "call": "কল ",
+    "custom_fields": {
+      "date_range": {
+        "start": "শুরু : ",
+        "end": "শেষ : "
+      },
+      "date_time_range": {
+        "start": "শুরু : ",
+        "end": "শেষ : "
+      }
+    },
+    "chatLoginAlert": "চ্যাট করতে লগ ইন করুন।",
+    "emailLoginAlert": "মেইল পাঠাতে লগ ইন করুন।",
+    "loginAlert": "এই সুবিধা ব্যাবহার করতে হলে লগইন করুন।",
+    "priceTypes": {
+      "fixed": "নির্ধারিত",
+      "onCall": "কল ভিত্তিক",
+      "negotiable": "দামাদামি যোগ্য"
+    },
+    "socialProfileTitle": "সোশাল প্রোফাইল",
+    "businessHoursTitle": "খোলার সময়",
+    "bHTexts": {
+      "openTitle": "খোলা",
+      "closeTitle": "বন্ধ",
+      "openText": "আজ খোলা (২৪ ঘণ্টা)",
+      "closeText": "বন্ধ",
+      "closeTodayText": "আজ বন্ধ",
+      "currentStatusOpen": "এই মুহুর্তে আমরা খোলা আছি।",
+      "currentStatusClose": "দুঃখিত! এই মুহুর্তে বন্ধ আছে।"
+    },
+    "whatsappButton": "হোয়াটসএপ",
+    "showRatingBtn": "রেটিং দেখুন",
+    "hideRatingBtn": "রেটিং লুকান",
+    "ratingHeader": {
+      "zero": "রেটিং নেই",
+      "single": " টি রিভিউ",
+      "multiple": " টি রিভিউ"
+    },
+    "ratingFormTitle": "আপনার রিভিউ লিখুন",
+    "ratingFormNotice": "Your email address will not be published. Required fields are marked with red star.",
+    "formLabels": {
+      "name": "নাম",
+      "email": "ইমেইল",
+      "title": "রিভিউ টাইটেল",
+      "rating": "রেটিং",
+      "review": "আপনার মন্তব্য"
+    },
+    "formValidation": {
+      "required": " আবশ্যক",
+      "invalid": " এর ফরমেট ঠিক নেই।"
+    },
+    "submitBtn": "সাবমিট",
+    "reviewNotice": "Your review has been successfully submitted. Once it gets approved, it'll be shown with the other reviews.",
+    "reviewApproved": "রিভিউ সফল হয়েছে।",
+    "postTimePrefix": "প্রকাশ হয়েছে ",
+    "deletedValue": "[এডমিন রিমোভ করেছে]"
+  },
+
+  "loginScreenTexts": {
+    "signUpPrompt": "একাউন্ট নেই?",
+    "loginTitle": "লগ ইন করুন",
+    "formFieldsPlaceholder": {
+      "username": "ইউজারনেম / ইমেইল",
+      "password": "কটুশব্দ"
+    },
+    "forgotPassword": "কটুশব্দ ভুলে গিয়েছেন?",
+    "passwordReset": "আপনি একটি ইমেইল পাবেন যেখানে কটুশব্দ বদলের লিংক থাকবে।",
+    "cancelButtonTitle": "বাতিল",
+    "passwordResetButton": "আমাকে লিংক পাঠান",
+    "resetSuccessMessage": "আপনার ইম্বিলে কটুশব্দ পরিবর্তনের লিংক পাঠানো হয়েছে।",
+    "signUpButtonTitle": "সাইন আপ",
+    "loginButtonTitle": "লগ ইন",
+    "loginSuccessMessage": "সফলভাবে লগ ইন হয়েছে।",
+    "formFieldsLabel": {
+      "username": "ইউজারনেম",
+      "password": "কটুশব্দ",
+      "reset": "ইউজারনেম / ইমেইল"
+    },
+    "formValidation": {
+      "requiredField": "আবশ্যক",
+      "minimumLength3": "অবশ্যই কমপক্ষে ৩ অক্ষরের হতে হবে।"
+    },
+    "customResponseError": "সার্ভারে সমস্যা হয়েছে।",
+    "socialButtonTitle": {
+      "facebook": "ফেসবুক লগইন",
+      "google": "গুগল লগইন"
+    },
+    "pleaseWaitText": "দয়া করে অপেক্ষা করুন!"
+  },
+
+  "membershipsScreenTexts": {
+    "makePayment": "পেমেন্ট করুন"
+  },
+
+  "myListingsScreenTexts": {
+    "loggedOut": "You are not logged in.",
+    "deletePromptMessage": "ডিলিট করতে চান",
+    "editPromptMessage": "হালনাগাদ করতে চান",
+    "promotePromptMessage": "প্রোমোট করতে চান",
+    "soldPromptMessage": "মার্ক করতে চান ",
+    "asUnsold": "অবিক্রীত হিসেবে",
+    "asSold": "বিক্রিত হিসেবে",
+    "cancelButtonTitle": "বাতিল",
+    "okayButtonTitle": "ঠিক আছে",
+    "deleteButtonTitle": "ডিলিট",
+    "editButtonTitle": "হালনাগাদ",
+    "promoteButtonTitle": "প্রোমোট",
+    "noAdTitle": "আপনার কোন বিজ্ঞাপন নেই।",
+    "postAdButtonTitle": "বিজ্ঞাপন তৈরি করুন",
+    "loadingMessage": "বিজ্ঞাপন তালিকা সংগ্রহ করা হচ্ছে",
+    "listingDeleteSuccessText": "ডিলিট সফল হয়েছে।",
+    "listingDeleteErrorText": "সমস্যা হয়েছে! আবার চেষ্টা করুন।",
+    "actionMenuButtons": {
+      "edit": "হালনাগাদ",
+      "delete": "ডিলিট",
+      "promote": "প্রোমোট",
+      "sold": "বিক্রিত মার্ক করুন",
+      "unsold": "অবিক্রীত মার্ক করুন"
+    },
+    "customServerErrorMessage": "সার্ভার থেকে ডাটা পেতে সমস্যা হয়েছে।",
+    "noInternet": "ইন্টারনেট নেই।"
+  },
+
+  "myMembershipScreenTexts": {
+    "title": "আমাদের সদস্য হউন!",
+    "membershipText": "সদস্যপদ gives your business a voice and presence on our platform to reach more customers,increase your sales and expand your business! Memberships unlock powerful tools like sales analytics, a dedicated business page and discounted ad promotions.",
+    "emailLabel": "ইমেইল : ",
+    "membershipDetailHeader": "সদস্যপদ রিপোর্ট",
+    "membershipStatusLabel": "অবস্থা",
+    "membershipValidityLabel": "Validity",
+    "remainingAdsLabel": " : Remaining Ads",
+    "postedAdsLabel": " : Posted Ads",
+    "remainingAdsTableLabel": "Remaining Ads",
+    "membershipValidityTableLabel": "Validity",
+    "upgradeMembershipPackageButtonTitle": "Show more packages",
+    "showMembershipPackageButtonTitle": "Show membership packages",
+    "active": "Active",
+    "expired": "Expired",
+    "till": "Till",
+    "expiredOn": "Expired on",
+    "promotions": "Promotions",
+    "validityUnit": "Days"
+  },
+
+  "myProfileScreenTexts": {
+    "loadingMessage": "ব্যাবহারকারির তথ্য যোগাড় করা হচ্ছে",
+    "customResponseError": "সার্ভার থেকে তথ্য পেতে সমস্যা হচ্ছে",
+    "profileInfoLabels": {
+      "name": "নাম",
+      "email": "ইমেইল",
+      "phone": "ফোন",
+      "whatsapp": "হোয়াটসএপ",
+      "address": "ঠিকানা",
+      "website": "ওয়েবসাইট"
+    },
+    "noInternet": "ইন্টারনেট নেই!"
+  },
+
+  "myStoreTexts": {
+    "banner": "দোকানের ব্যানার",
+    "closed": "বন্ধ",
+    "noBanner": "কোন ব্যানার আপলোড করা হয়নি",
+    "logo": "দোকানের লগো",
+    "schedule": "দোকানের শিডিউল",
+    "hours": "খোলার সময়",
+    "selectHours": "খোলার সময় নির্বাচন করুন",
+    "info": "দোকানের তথ্য",
+    "slug": "দোকানের স্লাগ",
+    "storeName": "দোকানের নাম",
+    "storeSlogan": "দোকানের স্লোগান",
+    "storeEmail": "দোকানের ইমেইল",
+    "storePhone": "দোকানের ফোন নাম্বার",
+    "storeWebsite": "দোকানের ওয়েবসাইট",
+    "storeAddress": "দোকানের ঠিকানা",
+    "storeDescription": "দোকানের বিবরণ",
+    "storeSocial": "সামাজিক যোগাযোগ মাধ্যমের লিংক",
+    "facebook": "ফেসবুক",
+    "youtube": "ইউটিউব",
+    "twitter": "টুইটার",
+    "linkedin": "লিংকডইন",
+    "updateStoreButtonTitle": "হালনাগাদ করুন",
+    "imagePickerTitle": "ছবি যোগ করুন",
+    "imagePickerCameraText": "ছবি তুলুন",
+    "imagePickerGalleryText": "ছবি নির্বাচন করুন",
+    "errorFieldNames": {
+      "slug": "দোকানের স্লাগ",
+      "title": "দোকানের নাম",
+      "slogan": "দোকানের স্লোগান",
+      "email": "ইমেইল",
+      "phone": "ফোন",
+      "address": "ঠিকানা",
+      "website": "ওয়েবসাইট",
+      "description": "বিবরণ",
+      "facebook": "ফেসবুক",
+      "youtube": "ইউটিউব",
+      "twitter": "টুইটার",
+      "linkedin": "লিংকডইন"
+    },
+    "placeHolders": {
+      "slug": "দোকানের স্লাগ",
+      "title": "দোকানের নাম",
+      "slogan": "দোকানের স্লোগান",
+      "email": "yourstore@store.com",
+      "phone": "+0123456789",
+      "address": "দোকানের ঠিকানা",
+      "website": "https://www.yourstore.com",
+      "description": "দোকানের বিবরণ",
+      "facebook": "https://www.facebook.com/yourstore",
+      "youtube": "https://www.youtube.com/yourstore",
+      "twitter": "https://www.twitter.com/yourstore",
+      "linkedin": "https://www.linkedin.com/yourstore"
+    },
+    "formValidation": {
+      "requiredField": "is required.",
+      "minimumLength5": "must be at least 5 characters.",
+      "minimumLength3": "must be at least 3 characters.",
+      "validEmail": "Must be a valid email.",
+      "validUrl": "Must be a valid URL."
+    },
+    "successNotifications": {
+      "logo": "লগো আপলোড সফল হয়েছে।",
+      "banner": "ব্যানার আপলোড সফল হয়েছে।",
+      "storeInfo": "দোকানের তথ্য সফলভাবে হালনাগাদ হয়েছে।"
+    },
+    "errorNotification": "সার্ভারে সমস্যা। আবার চেষ্টা করুন।",
+    "userHasNoStore": "এই ব্যাবহারকারির কোন দোকান নেই।",
+    "storeCreateMessage": "আপনি কি দোকান তৈরি করতে চান?",
+    "createStoreButtonTitle": "দোকান তৈরি করুন",
+    "cancelButtonTitle": "বাতিল",
+    "cameraRollPermissionAlert": "এই ফিচার ব্যাবহার করতে হলে স্টোরেজ পারমিশন চালু করতে হবে।",
+
+    "cameraPermissionAlert": "এই ফিচার ব্যাবহার করতে হলে ক্যামেরা পারমিশন চালু করতে হবে।",
+    "recommendedSize": "রিকমেন্ডেড সাইজ (",
+    "maximum": "সর্বোচ্চ ",
+    "alwaysOpen": "সবসময় খোলা"
+  },
+
+  "newListingScreenTexts": {
+    "title": "বিজ্ঞাপণ ফর্ম",
+    "selectType": "ধরন নির্বাচন করুন",
+    "selectCategory": "ক্যাটাগরি নির্বাচন করুন",
+    "selectLocation": "স্থান নির্বাচন করুন",
+    "eligibilityChecking": "বিজ্ঞাপন দাতার সুবিধা সমূহ যাচাই করা হচ্ছে",
+    "noRemainingAds": "দুঃখিত! আপনি আর বিজ্ঞাপন পোস্ট করতে পারবেন না।",
+    "purchaseMembership": "দয়া করে সদস্যপদ কিনুন বা নবায়ন করুন।",
+    "goBackButtonTitle": "ফিরে যান",
+    "membershipButtonTitle": "সদস্যপদ",
+    "notLoggedIn": "আপনি লগ ইন করেন নি",
+    "loginOrSignUp": "দয়া করে বিজ্ঞাপন তৈরি করার জন্য লগ ইন অথবা সাইন আপ করুন",
+    "loginOrSignUpButtonTitle": "লগ ইন / সাইন আপ",
+    "membershipURL": "https://radiustheme.com/demo/wordpress/classifiedpro/checkout/membership/"
+  },
+
+  "reportScreenTexts": {
+    "serverResponse": {
+      "success": "সফল ভাবে অভিযোগ দাখিল হয়েছে",
+      "fail": "অভিযোগ দাখিলে সমস্যা হয়েছে। দয়া করে আবার চেষ্টা করুন।"
+    },
+    "questionText": "বিজ্ঞাপনটিতে সমস্যা আছে?",
+    "directionText": "আপনি যদি মনে করেন এই বিজ্ঞাপনে কোন প্রকার সমস্যা আছে তাহলে দয়া করে এখানে অভিযোগ দাখিল করুন?",
+    "formFieldLabels": {
+      "message": "মেসেজ"
+    },
+    "formFieldPlaceholders": {
+      "message": "আপনার মেসেজ"
+    },
+    "formValidation": {
+      "requiredField": "is required.",
+      "minimumLength3": "must be at least 5 characters."
+    },
+    "sendReportButtonTitle": "অভিযোগ করুন"
+  },
+
+  "searchScreenTexts": {
+    "loadingDataMessage": "তথ্য সংগ্রহ করা হচ্ছে",
+    "loadingListingMessage": "বিজ্ঞাপন সংগ্রহ করা হচ্ছে",
+    "noListingFoundMessage": "দুঃখিত! কোন বিজ্ঞাপন পাওয়া যায়নি।",
+    "loadingFiltersMessage": "ফিল্টার লোড হচ্ছে",
+    "radiusSearchTitle": "গোলাকার অনুসন্ধান",
+    "radiusSearchCenterPlaceholder": "অনুসন্ধান কেন্দ্র",
+    "locationPermissionAlert": "এই ফিচারটি ব্যাবহার করতে হলে লোকেশন পারমিশন চালু করতে হবে।",
+    "location": "স্থান",
+    "category": "ক্যাটাগরি",
+    "allCategories": "সকল ক্যাটাগরি",
+    "filterTitle": "ফিল্টার সমূহ",
+    "filterLabels": {
+      "sortBy": "সর্ট করুন",
+      "listingType": "বিজ্ঞাপনের ধরন",
+      "priceRangeLabel": "মূল্য রেঞ্জ"
+    },
+    "rangeEnd": "শেষ",
+    "rangeStart": "শুরু",
+    "clearAllButtonTitle": "ক্লিয়ার",
+    "applyFiltersButtonTitle": "ফিল্টার প্রয়োগ"
+  },
+
+  "selectCategoryScreenTexts": {
+    "errorMessages": {
+      "serverError": "সার্ভারে সমস্যা হয়েছে",
+      "timeOut": "রিকোয়েস্টটি মেয়াদ উত্তির্ণ হয়েছে"
+    },
+    "showAllofCategory": "সব দেখুন ",
+    "showAll": "সব দেখুন",
+    "selectSubCategory": "সাব ক্যাটাগরি বাছাই করুন",
+    "allCategory": "সকল ক্যাটাগরি"
+  },
+
+  "selectLocationScreenTexts": {
+    "errorMessages": {
+      "serverError": "সার্ভারে সমস্যা হয়েছে",
+      "timeOut": "রিকোয়েস্টটি মেয়াদ উত্তির্ণ হয়েছে"
+    },
+    "showAllofLocation": "সব দেখুন ",
+    "showAll": "সব দেখুন",
+    "nextLevelLocation": "স্থান নির্বাচন করুন"
+  },
+
+  "sendEmailScreenTexts": {
+    "serverResponse": {
+      "success": "সফল ভাভে ইমেইল প্রেরণ করা হয়েছে",
+      "fail": "সমস্যা হয়েছে! দয়া করে আবার চেষ্টা করুন।",
+      "timeOut": "রিকোয়েস্টের মেয়াদ উত্তির্ণ হয়েছে! দয়া করে আবার চেষ্টা করুন।"
+    },
+    "formFieldPlaceholders": {
+      "message": "আপনার মেসেজ",
+      "name": "আপনার নাম",
+      "email": "আপনার ইমেইল",
+      "phone": "আপনার ফোন নাম্বার"
+    },
+    "formFieldLabels": {
+      "message": "মেসেজ",
+      "name": "নাম",
+      "email": "ইমেইল",
+      "phone": "ফোন নাম্বার"
+    },
+    "sendEmailButtonTitle": "ইমেইল পাঠান",
+    "formValidation": {
+      "requiredField": "is required.",
+      "minimumLength3": "must be at least 3 characters.",
+      "validEmail": "Must be a valid email."
+    }
+  },
+
+  "signUpScreenTexts": {
+    "formFieldLabels": {
+      "first_name": "ফার্স্ট নেম",
+      "last_name": "লাস্ট নেম",
+      "username": "ইউজারনেম",
+      "phone": "ফোন নাম্বার",
+      "email": "ইমেইল",
+      "password": "কটুশব্দ"
+    },
+    "formValidation": {
+      "requiredField": "is required.",
+      "minimumLength3": "must be at least 3 characters.",
+      "minimumLength5": "must be at least 5 characters.",
+      "minimumLength6": "must be at least 6 characters.",
+      "validEmail": "Must be a valid email."
+    },
+    "formFieldPlaceholders": {
+      "first_name": "ফার্স্ট নেম",
+      "last_name": "লাস্ট নেম",
+      "username": "ইউজারনেম",
+      "phone": "+123456789",
+      "email": "user@email.com",
+      "password": "কটুশব্দ"
+    },
+    "signupSuccessMessage": "সাইন আপ সফল হয়েছে।",
+    "mailVerification": "An email was sent to your mail address with a verification link. Please verify your email address before logging in.",
+    "errorMessage": {
+      "timeoutError": "রিকোয়েস্ট মেয়াদ উত্তির্ণ হয়েছে।",
+      "serverError": "সার্ভারে সমস্যা হয়েছে"
+    },
+    "signUpButtonTitle": "সাইন আপ করুন"
+  },
+
+  "promoteScreenTexts": {
+    "membershipPromotions": "Membership Promotions",
+    "promotions": "Promotions",
+    "remainingads": "Remaining Ads",
+    "validDuration": "Duration",
+    "validPeriodUnit": "Days",
+    "regularPromotions": "Regular Promotions",
+    "validity": "Validity",
+    "price": "Price",
+    "confirmPromotion": "Confirm Promotion",
+    "proceedToPayment": "Proceed to Payment",
+    "success": "Promotion Successful",
+    "fail": "Promotion Failed",
+    "goBackButton": "Go Back"
+  },
+
+  "paymentMethodScreen": {
+    "selectedPackage": "Selected Package",
+    "promotionConfirmation": "You are promoting",
+    "promotionPlan": "Promotion Plan",
+    "packagePrice": "Package Price",
+    "promotionPrice": "Promotion Price",
+    "subTotal": "Sub Total",
+    "paymentDetail": "Payment Detail",
+    "choosePayment": "Choose Payment Method",
+    "proceedPayment": "Proceed To Payment",
+    "unknownError": "Unknown error occured. Please try again later.",
+    "payment": {
+      "paymentID": "Payment #",
+      "totalAmount": "Total Amount",
+      "date": "Date",
+      "method": "Payment Method",
+      "status": "Payment Status",
+      "transactionID": "Transaction Key",
+      "orderKey": "Order Key",
+      "instructions": "Instructions"
+    },
+    "plan": {
+      "pricingOption": "Pricing Option",
+      "membershipTitle": "Membership Title",
+      "duration": "Duration",
+      "amount": "Amount",
+      "details": "Details",
+      "description": "Description"
+    },
+    "closeButton": "Colse",
+    "paypalRedirectNotice": "Redirecting to Paypal",
+    "paymentProcessing": "Payment Processing",
+    "goToAccountButton": "Go back to Account",
+    "invalidCardMessage": "Please enter valid card info.",
+    "paymentVerifying": "Verifying Payment."
+  },
+
+  "paymentsScreenTexts": {
+    "unknownError": "Unknown error occured! Please try again.",
+    "retryButton": "Retry",
+    "paymentMethodPrefix": "Paid via",
+    "refreshButton": "Refresh",
+    "emptyListMessage": "Sorry! You do not have any payment history."
+  },
+
+  "paymentDetailScreen": {
+    "errorNotice": "Error occured while getting payment data!",
+    "originalErrorLabel": "Original Error :",
+    "features": "Features"
+  },
+
+  "storeDetailsTexts": {
+    "title": "স্টোর ডিটেইল",
+    "loadingText": "দোকানের তথ্য সংগ্রহ করা হচ্ছে",
+    "nullText": "তথ্য নেই",
+    "alwaysOpen": "সবসময় খোলা",
+    "emptyListing": "এই দোকানে এখনো কোন বিজ্ঞাপন দেয়া হয়নি।",
+    "storeExpired": "এই দোকানির সদস্যপদের মেয়াদ উত্তির্ণ হবার কারণে দোকানটি দেখা যাচ্ছে না।",
+    "goBackButtonTitle": "পেছনে",
+    "membership": "সদস্য হয়েছেন ",
+    "membershipMomentFormate": "MMM Do YYYY",
+    "openingHourOpen": "আজ খোলা ",
+    "openingHourClose": "আজ বন্ধ",
+    "viewMoreButtonText": "আরও তথ্য দেখুন",
+    "latestAds": "নতুন বিজ্ঞাপন",
+    "cancelButtonTitle": "বাতিল",
+    "viewsCount": "দেখা হয়েছে : ",
+    "noData": "তথ্য নেই।",
+    "loginButtonTitle": "লগ ইন",
+    "loginAlert": "দয়া করে লগ ইন করুন মেইল পাঠানোর জন্য।",
+    "fullDayOpen": "সমস্ত দিন খোলা",
+    "closed": "আজ বন্ধ",
+    "openDayStarting": "আজ খোলা  ",
+    "openDayClosing": " থেকে ",
+    "messageToStoreOwner": "মেসেজ পাঠান",
+    "viewMore": "এই দোকানের আরও তথ্য দেখুন",
+    "callPrompt": "দোকানদার কে কল করতে চান?"
+  },
+
+  "storeMoreDetailTexts": {
+    "sectionTitles": {
+      "openinigDateTime": "খোলার তারিখ ও সময়",
+      "storeAddress": "দোকানের ঠিকানা",
+      "storeDetails": "দোকানের বিবরণ",
+      "social": "দোকানের সামাজিক মাধ্যম"
+    },
+    "alwaysOpen": "সবসময় খোলা",
+    "closed": "বন্ধ",
+    "cancelButtonTitle": "বাতিল",
+    "noData": "তথ্য নেই",
+    "loginButtonTitle": "লগ ইন",
+    "loginAlert": "দয়া করে লগ ইন করুন মেইল পাঠানোর জন্য।",
+    "fullDayOpen": "সমস্ত দিন খোলা",
+    "messageToStoreOwner": "মেসেজ পাঠান",
+    "callPrompt": "এই দোকানি কে কল করতে চান?"
+  },
+
+  "datePickerTexts": {
+    "selectDate": "তারিখ নির্বাচন",
+    "selectTime": "সময় নির্বাচন",
+    "okButtonTitle": "ঠিক আছে"
+  },
+
+  "dateRangePickerTexts": {
+    "selectStartDate": "শুরুর তারিখ নির্বাচন",
+    "selectEndDate": "শেষের তারিখ নির্বাচন",
+    "selectStartTime": "শুরুর সময় নির্বাচন",
+    "selectEndTime": "শেষের সময় নির্বাচন",
+    "okButtonTitle": "ঠিক আছে"
+  },
+
+  "dynamicFilterListPickerTexts": {
+    "selectText": "একটি নির্বাচন করুন"
+  },
+
+  "dynamicListPickerTexts": {
+    "selectText": "নির্বাচন করুন একটি "
+  },
+
+  "favouritesItemTexts": {
+    "viewsText": "দেখা হয়েছে :"
+  },
+
+  "imageInputTexts": {
+    "cancelButtonTitle": "বাতিল",
+    "ifImageLibraryPermissionDenied": "You need to enable permission to access image library",
+    "ifCameraPermissionDenied": "You need to enable permission to access your camera",
+    "deleteMessageHeader": "Delete",
+    "deletePrompt": "Do you really want to remove this image?",
+    "yesButton": "Yes",
+    "noButton": "No",
+    "addPhoto": "Add Photo",
+    "takePhoto": "Take Photo",
+    "fromGallery": "From Gallery"
+  },
+
+  "imageInputListTexts": {
+    "addPhotosButtonTitle": "ছবি যুক্ত করুন",
+    "addPhotoButtonTitle": "ছবি যুক্ত করুন"
+  },
+
+  "listingCardTexts": {
+    "soldOutBadgeMessage": "বিক্রয় শেষ"
+  },
+
+  "listingFormTexts": {
+    "formTitle": "পণ্য সম্পর্কিত তথ্য",
+    "fieldRequiredErrorMessage": "এই তথ্যটি প্রদান করা আবশ্যক",
+    "tnCToggleText": "আমি পড়েছি এবং রাজি আছি এই এপের ",
+    "tncText": "টার্মস এবং কন্ডিশন",
+    "tncTitleText": "টার্মস এবং কন্ডিশন",
+    "listingTitleLabel": "শিরোনাম",
+    "videoURLLabel": "ভিডিও লিংক",
+    "pricingLabel": "মূল্যায়ন ধরণ",
+    "priceTypeLabel": "মূল্যের ধরন",
+    "priceLabel": "মূল্য",
+    "maxPriceLabel": "সর্বোচ্চ মূল্য",
+
+    "minPriceLabel": "নিম্ন মূল্য",
+    "priceUnitLabel": "মূল্যের একক",
+    "listingDescriptionLabel": "বিবরণ",
+    "contactTitle": "যোগাযোগের বিস্তারিত",
+    "zipCodeLabel": "পোস্ট কোড",
+    "websiteErrorLabel": "সঠিক লিংক প্রবেশ করান!",
+    "addressLabel": "ঠিকানা",
+    "geoAddressLabel": "Geo ঠিকানা",
+    "phoneLabel": "ফোন নাম্বার",
+    "whatsappLabel": "হোয়াটসএপ",
+    "whatsappNote": "কান্ট্রি কোড সহ হোয়াটসএপ নাম্বার। যেমন +1xxxxxxxxxx",
+    "emailLabel": "ইমেইল",
+    "websiteLabel": "ওয়েবসাইট",
+    "nameLabel": "নাম",
+    "imagesLabel": "ছবি",
+    "maxImageCount": "আপনি আপলোড করতে পারবেন সর্বোচ্চ ",
+    "images": " টি ছবি।",
+    "dragSortText": "ছবি পুনরায় সাজানোর জন্য ট্যাপ করে ধরে রাখুন।",
+    "uploadingNoticeText": "এটা আপনার ইন্টারনেট সংযোগের গতির উপর নির্ভর করে সময় নিবে...",
+    "uploadErrorNoticeText": "আপলোডিং এ সমস্যা হয়েছে! আবার চেষ্টা করুন।",
+    "socialProfileTitle": "Social Profiles",
+    "submitButtonTitle": "সাবমিট",
+    "tryAgainButtonTitle": "আবার চেষ্টা করুন",
+    "mapToggleTitle": "বিজ্ঞাপনে ম্যাপ লুকিয়ে রাখুন।",
+    "geoCoderFail": "ম্যাপ সার্ভিসে সমস্যা হয়েছে",
+    "videoURLInvalid": "লিংক এর ফরমেট ঠিক নেই",
+    "videoURLNote": "যেমন ঃ https://www.youtube.com/watch?v=RiXdDGk_XCU",
+    "businessHoursTitle": "Open Hours",
+    "businessHoursToggleTitle": "Activate Opening Hours",
+    "businessHoursToggleNote": "Define your weekly hours",
+    "bHOpenBtnTitle": "Open",
+    "timeSlotToggleButton": "Want to set time slots? (Default All day long)",
+    "timeSlotStartTitle": "Start",
+    "timeSlotEndTitle": "End",
+    "specialHoursToggleTitle": "Special Hours - overrides",
+    "specialHoursToggleNote": "Define your weekly opening hours to override",
+    "formValidation": {
+      "requiredField": "is required.",
+      "minimumLength5": "must be at least 5 characters.",
+      "minimumLength3": "must be at least 3 characters.",
+      "validEmail": "Must be a valid email."
+    }
+  },
+
+  "myAdsListItemTexts": {
+    "viewsText": "দেখা হয়েছে : ",
+    "soldOut": "বিক্রয় শেষ"
+  },
+
+  "OHTimePickerTexts": {
+    "okButtonTitle": "ঠিক আছে"
+  },
+
+  "screenTexts": {
+    "noInternetText": "কানেকশানে সমস্যা হয়েছে! দয়া করে ইন্টারনেট সংযোগ চেক করুন।"
+  },
+
+  "sellerContactTexts": {
+    "call": "কল",
+    "email": "ইমেইল",
+    "chat": "চ্যাট"
+  },
+
+  "similarAdListItemTexts": {
+    "viewsText": "দেখা হয়েছে : "
+  },
+
+  "membershipCardTexts": {
+    "ads": "Ads",
+    "validityUnit": "Days",
+    "regular": "Regular"
+  },
+
+  "callForPrice": "মূল্যের জন্য কল করুন",
+
+  "options_user": [
+    {
+      "title": "আমার বিজ্ঞাপন সমূহ",
+
+      "id": "my_listings"
+    },
+    {
+      "title": "প্রিয়",
+      "id": "favourite"
+    },
+    {
+      "title": "সদস্যপদ",
+      "id": "my_membership"
+    },
+    {
+      "title": "আমার দোকান",
+      "id": "my_store"
+    },
+    {
+      "title": "সকল দোকান",
+      "id": "all_stores"
+    },
+
+    {
+      "title": "প্রোফাইল",
+      "id": "my_profile"
+    },
+    {
+      "title": "Payments",
+      "id": "payments"
+    },
+    {
+      "title": "সাধারণ প্রশ্ন ও উত্তর",
+      "id": "faq"
+    },
+    {
+      "title": "তাড়াতাড়ি বিক্রয়ের উপায়",
+      "id": "how_to_sell_fast"
+    },
+    {
+      "title": "আরও অপশন",
+      "id": "more"
+    }
+  ],
+
+  "options_no_user": [
+    {
+      "title": "সাধারণ প্রশ্ন ও উত্তর",
+      "id": "faq"
+    },
+    {
+      "title": "তাড়াতাড়ি বিক্রয়ের উপায়",
+      "id": "how_to_sell_fast"
+    },
+    {
+      "title": "আরও অপশন",
+      "id": "more"
+    }
+  ],
+
+  "appDescription": {
+    "paras": [
+      {
+        "paraTitle": "",
+        "paraDetail": "Classima app is the demo Android app for Classima – Classified ads WordPress Theme. Using this app you can access to the most incredible classified marketplace in country, where you can buy, search, and sell many different products on the go. Classima doesn’t limit you in terms of the goods that you can buy or sell. It allows you to sell motorcycles, vehicles, electronics, and so much more. What’s more, if you’re interested in selling, buying, or renting a property, or posting or searching for a job within the country or overseas, you can find it all on Classima.\n\nExplore listings in categories like:",
+        "paraType": "para"
+      },
+      {
+        "paraTitle": "ইলেক্ট্রনিক্স",
+        "paraDetail": [
+          "You can sell and buy new and used electronics, such as cameras, television sets, tablets, phones, laptops, video games, lighting equipment, audio gear, gaming consoles, etc.",
+          "You can compare the prices of similar products and find accessories, such as phone casings and adapters."
+        ],
+        "paraType": "bullets"
+      },
+      {
+        "paraTitle": "গাড়ি এবং মোটরবাইক",
+        "paraDetail": [
+          "You can sell and buy new and used buses, vans, scooters, motorcycles, boats, and heavy-duty vehicles.",
+          "Classima allows you to compare the prices of all vehicle brands, including Honda, Hyundai, Mitsubishi, Toyota, Mazda, Nissan, and Kia, etc",
+          "Getting to the listings you want is easy since you can filter your search by price range, mileage, model year, brand, condition, etc.",
+          "You can shop for parts and accessories for your vehicle too."
+        ],
+        "paraType": "bullets"
+      },
+      {
+        "paraTitle": "সম্পত্তি",
+        "paraDetail": [
+          "Classima allows you to sell, buy, and rent property easily.",
+          "You can search for land, commercial property, houses, flats, and apartments while filtering your search by location, price, condition, etc.",
+          "You can compare the prices of similar property listings easily."
+        ],
+        "paraType": "bullets"
+      },
+
+      {
+        "paraTitle": "With Clasima, you can:",
+        "paraDetail": "Browse thousands of local ads with Classima – an easy-to-use mobile app. You can do your search by the listing location, category, and keywords, so you can find precisely what you want. Buyers get to communicate with sellers and make deals to purchase listings easily. Buyers can save the listings they want to buy later to view later.\n\nYou can promote your ads using Bump Up and Top Ads to get them to sell faster. You can find all categories that you want right inside Classima. Posting and managing ads is easy right from your phone. Classima consumes very little data.\n\nYou can download the free app right now and have the marketplace in your palm.\n\nWelcome!",
+        "paraType": "para"
+      }
+    ],
+    "link": "https://preview.themeforest.net/item/classima-classified-ads-wordpress-theme/full_screen_preview/24494997",
+    "linkedPara": [
+      "Are you curious about Classima? Check out the features of the ",
+      "Classima Pro plugin",
+      " Classima – Classified ads WordPress Theme."
+    ]
+  },
+
+  "frequentlyAskedQuestions": [
+    {
+      "question": "কিভাবে বিজ্ঞাপন পোষ্ট করবো?",
+      "answer": "You can easily post your ad; Just tap on the the plus (+) icon & then login and submit your ad with proper data. You will get a notification after submitting your ad."
+    },
+    {
+      "question": "How do I edit/delete my ads?",
+      "answer": "Simply login and go to Account => my listing & you will get a list of your ads. Each ad has delete option"
+    },
+    {
+      "question": "How to edit my ad?",
+      "answer": "Simply login and go to Account => my listing & you will get a list of your ads. Each ad has edit option"
+    },
+    {
+      "question": "How many days my ads will remain active?",
+
+      "answer": "It depends on your settings how many days the listing will active depends on it ads will be visible "
+    },
+    {
+      "question": "How many ads can I post for free?",
+      "answer": "It depends on your settings on website seller will get no of free ads to post for certain no of days."
+    },
+    {
+      "question": "How can I edit my account information?",
+      "answer": "Login then go to my account, you will get your account information edit option"
+    },
+    {
+      "question": "How to start chat with someone?",
+      "answer": "Go to detail of an ad; you will get email, phone and chat option. Just tap the chat icon and start your conversation."
+    },
+    {
+      "question": "Will I get chat notifications as a Seller?",
+      "answer": "Yes. For chat request or email, seller will get an email notification. For chat, buyer will get first initial message as email notification."
+    }
+  ],
+
+  "sellFastTips": [
+    {
+      "id": 1,
+      "title": "সঠিক মূল্য নির্বাচন করুন।",
+      "detail": "Price is a big factor for customer who purchase the item. So before setting the price visit similar ads and set a reasonable and competitive price."
+    },
+    {
+      "id": 2,
+      "title": "উত্তম ছবি ব্যাবহার করুন।",
+      "detail": "Use clear & actual photos of your product/products. You can use multiple images from different view so buyer will get more clear idea about your item/items."
+    },
+    {
+      "id": 3,
+      "title": "সঠিক বিবরিণ দিন।",
+      "detail": "Provide clear and detail description of your product. Make sure you've added right information about your items."
+    }
+  ],
+
+  "moreOptions": [
+    {
+      "title": "আমাদের সাথে যোগাযোগ করুন",
+      "detail": "If you face any problem or did not find the answer to your question in frequently asked question swction, please feel free to contact us.",
+      "id": "contact_us"
+    },
+    {
+      "title": "এই এপ সম্পর্কিত",
+      "detail": "Classima is an online platform where you can buy and sell almost everything. The best deals are often done with people who lives nearby. It's a place where you can get everything",
+      "id": "about_us"
+    },
+    {
+      "title": "টার্ম এবং কন্ডিশন",
+      "detail": "Please be sure to read these Terms & Conditions before using this app.",
+      "id": "tnc"
+    },
+    {
+      "title": "গোপনীয়তা নীতি",
+      "detail": "RadiusTheme.com – the Classima mobile application creators – prioritizes and values the security and privacy of the information you share with us through our Classima. We intend to make our users as comfortable using our app as possible. If you are to trust us with your information, you must understand how we collect, use, and maintain it.\n\nWhen you are about to acquire Classim, you'll need to register with us. The registration gives us your First and Last Name and Email Address.",
+      "id": "pp"
+    },
+    {
+      "title": "তৃতীয়পক্ষ লাইসেন্স",
+      "detail": "Here you can find the license policy for third party libraries and other assets used in this application.",
+      "id": "licenses"
+    }
+  ],
+
+  "privacyPolicy": {
+    "paras": [
+      {
+        "paraTitle": "",
+        "paraDetail": "RadiusTheme.com – the Classima mobile application creators – prioritizes and values the security and privacy of the information you share with us through our Classima. We intend to make our users as comfortable using our app as possible. If you are to trust us with your information, you must understand how we collect, use, and maintain it.\n\nWhen you are about to acquire Classima, you'll need to register with us. The registration gives us your First and Last Name and Email Address.",
+        "paraType": "para"
+      },
+      {
+        "paraTitle": "Information Collection and Use",
+        "paraDetail": "We may require you to provide us with certain personal information for a better experience. This information includes but is not limited to, name, address, and location data. This information will only be accessible to us and will only be used as described in this privacy policy.",
+        "paraType": "para"
+      },
+      {
+        "paraTitle": "ব্যাক্তিগত তথ্য:",
+        "paraDetail": "When you register and provide your name, email address, account username, and password, we will not retain your address information. Instead, this information is stored in 2Checkout – our payment gateway company.\n\nWe may also need extra information for support purposes, such as the URL of your site, admin, and FTP access. We only collect this data when you need extensive and effective support. All the data we receive for support requests is saved in Freshdesk, our third-party support system.",
+        "paraType": "para"
+      },
+      {
+        "paraTitle": "Non-Personal Information:",
+        "paraDetail": "When you download Classima, the same payment gateway collects your IP address and geo-location information.",
+        "paraType": "para"
+      },
+      {
+        "paraTitle": "Support System Emails:",
+        "paraDetail": "When we offer support for our Classima application, we don't store your email address even when you email us for support. We use the Freshdesk support system, which supports email communications and stores our users' usernames and email addresses. However, if necessary, we can import/ export the data.",
+        "paraType": "para"
+      },
+      {
+        "paraTitle": "Why Is User Information Collected?",
+        "paraDetail": "If you have a website and need to use Classima, you'll need to register with us, upon which we'll collect your personal information. This registration effectively makes you our customer and can download items from our site.",
+        "paraType": "para"
+      },
+      {
+        "paraTitle": "What Is Your Data Used For?",
+        "paraDetail": "With the data stored with our support for the Freshdesk support system, we get to identify you as our customer and send notifications and updates. The information we send could be product releases, updates, and discount offers. Guest users – who haven't registered – don't have permission to take any actions on our websites. Therefore, as a valued customer, we trust you enough to allow you to perform these actions.",
+        "paraType": "para"
+      },
+      {
+        "paraTitle": "For How Long is Personal Information Retained?",
+        "paraDetail": "When you register with us, your personal information and email are retained for the sake of future support. This information remains stored with us until you delete your personal information.",
+        "paraType": "para"
+      },
+      {
+        "paraTitle": "What We Don't Do with Your Personal Information:",
+        "paraDetail": "We don't and will never disclose, share, or provide your private information with other companies to market their own services or products. It is also against our policy to share your personal information with unauthorized people.",
+        "paraType": "para"
+      },
+      {
+        "paraTitle": "Your Rights Over Your Data:",
+        "paraDetail": "As a registered user, it is within your rights to edit your personal information. You can also request that a file of your information be exported. Upon logging into our site, you can delete your data too.",
+        "paraType": "para"
+      },
+      {
+        "paraTitle": "Cookies",
+        "paraDetail": "Cookies are small files with little data that are often used for unique anonymous identification. The website you visit sends them to your browser and stores them on your device's internal memory.\n\nAlthough our app or service may not use cookies explicitly, it may utilize third-party coding that uses them to collect information and improve their services. You will know when cookies are being sent to your device and have the option to accept or refuse cookies. However, rejecting cookies may deter you from accessing some services.",
+        "paraType": "para"
+      },
+      {
+        "paraTitle": "Our Security Procedures Against Data Breaches:",
+        "paraDetail": "We value the trust you've placed in us by giving us your personal information. Therefore, we employ industry-standard security means and technologies to protect your personal information from unauthorized disclosure, access, or use. Please don't disclose your registration password and username to unauthorized people to help us protect your privacy.\n\nEven though no internet transmission method or electronic storage procedure is 100% watertight, RadiusTheme and Classima leaves nothing to chance in efforts to protect your personal information.\n\nIn case your information is accessed by unauthorized people or is lost, we'll inform you as soon as we become aware of this.",
+        "paraType": "para"
+      },
+      {
+        "paraTitle": "How to Access Your Data or Edit Your Personal Information:",
+        "paraDetail": "When you log in on our site with your details, all your account information will be available for you to edit or delete. If you want to stop email notifications for the Classima app, just unsubscribe or send us an email, and we'll erase your email or account. Ensure that your email's subject reads 'delete my username'.",
+        "paraType": "para"
+      },
+      {
+        "paraTitle": "Contact Us",
+        "paraDetail": "If you have any suggestions or questions about our privacy policy, please feel free to contact us via support@radiustheme.com.",
+        "paraType": "para"
+      }
+    ],
+    "link": "",
+    "linkedPara": []
+  },
+
+  "termsAndConditions": [
+    {
+      "paraTitle": "",
+      "paraData": "Classima is a mobile app service created and provided by radiustheme.com, subject to you agreeing with the Terms and Conditions outlined below. Please be sure to read these Terms & Conditions before using this app."
+    },
+    {
+      "paraTitle": "সাধারণ",
+      "paraData": "It is the responsibility of all advertisers and other users to ensure that all content (image, video, graphics, and text content) uploaded for inclusion on the platform complies with the relevant laws. Classima and radiustheme.com assumes no responsibility for any inaccuracy or illegality of the content posted.\n\nAdvertisers and all users guarantee that their content doesn't violate any copyright, intellectual property rights, or any other rights of any entity or person. The user or advertiser agrees to release Classima and radiustheme.com from all obligations, claims, and liabilities arising from or connected with the use or inability to use the service.\n\nAdvertisers agree to their content being presented through the partner sites of Classima and radiustheme.com, under the same terms and conditions as on Classima and radiustheme.com."
+    },
+    {
+      "paraTitle": "Copyright",
+      "paraData": "Advertisers effectively grant Classima and radiustheme.com a perpetual, irrevocable, royalty-free, non-exclusive license and right to use, modify, reproduce, publish, adapt, translate, create derivative works from and distribute or incorporate such content into any form, technology, or medium now known or later developed.\n\nThe material (including the content, software, or services) on Classima are the property of radiustheme.com, its affiliates, subsidiaries, and/or third-party licensors. All intellectual property rights, such as copyright, service marks, trademarks, trade names, and other distinguishing brands on Classima, are the property of RadiusTheme.\n\nNo material found on Classima or radiustheme.com may be copied, republished, reproduced, installed, transmitted, posted, stored, or distributed without written explicit permission from RadiusTheme."
+    },
+    {
+      "paraTitle": "Watermarks",
+      "paraData": "All images on Classima are watermark to prevent them from being reused for other purposes without the advertiser's permission."
+    },
+    {
+      "paraTitle": "Safety and Images",
+      "paraData": "Classima and radiustheme.com reserve the right to alter the title of any content on the app for editorial purposes. Classima and radiustheme.com reserve the right to refuse to publish inappropriate images or those that violate RadiusTheme's rules."
+    },
+    {
+      "paraTitle": "Personal",
+      "paraData": "Classima and RadiusTheme reserve the right to cooperate with the authorities in case any content on the app violates the law. The identity of users, buyers, or advertisers may be determined, for example, by an ISP. IP addresses may also be registered to ensure that all users, buyers, and advertisers comply with the terms and conditions."
+    },
+    {
+      "paraTitle": "Privacy",
+      "paraData": "Classima and RadiusTheme will collect information from users, buyers, and advertisers. As a condition of use of Classima, each user and advertiser consents to and authorizes Classima and radiustheme.com to collect and use this information. Classima and radiustheme.com also reserves the right to disclose the information to Company Affiliates and any other person for the purposes of supporting, administering, and maintaining Classima, as well as for improving Classima, for instance by using the information for marketing, research, planning, and product development."
+    },
+    {
+      "paraTitle": "Cookies",
+      "paraData": "This app may use cookies, which means that your device should be cookie-enabled. A cookie file contains information, such as a random user ID that the site automatically assigns to a visitor to track the pages they visit. Cookies can't read data off your hard disk or other cookie files from other sites. Cookies can't, by themselves, be used to figure out the identity of the user."
+    },
+    {
+      "paraTitle": "Email Address of Users",
+      "paraData": "Users are needed to submit valid email addresses before they're allowed to post advertisement listings. The email addresses shall not be displayed publicly. However, users are allowed to send emails to other users through Classima."
+    },
+    {
+      "paraTitle": "Site Availability",
+      "paraData": "Classima and radiustheme.com doesn't guarantee uninterrupted or secure access to the app. The app is provided on an 'as is' and as and when available basis."
+    },
+    {
+      "paraTitle": "Links to Third-Party Websites",
+      "paraData": "Classima may contain references and links to other sites (Third-Party Websites). However, Classima or radiustheme.com shall not be responsible for the contents in these third-party websites. Third-party websites are not monitored or investigated by Classima or radiustheme.com. Once a user decides to leave Classima and access a third-party website, they do so at their own risk."
+    },
+    {
+      "paraTitle": "Paid Content and Service",
+      "paraData": "Some of the services and content of Classima may require payment, including but not limited to; membership packages and posting of ads in some specific categories.\n\nUsers may buy ad promotions using vouchers sold or issued by Classima. Vouchers aren't redeemable for cash.\n\nAdvertisers and other users may be required to transmit the information of their paid content via a third-party provider, which is governed by their own terms and conditions. Those users and advertisers accept such links at their own risk and Classima disclaims all liability related thereto. Classima shall, under no circumstances, be obliged to refund any payments made concerning paid content."
+    },
+    {
+      "paraTitle": "Memberships",
+      "paraData": "Classima will create a shop on the user's behalf. The shop created will be devoid of content, pending the addition of the same by the user. Classima has the right to any content added to the shop by the user and has the right to remove or decline to publish content that it deems inappropriate or violates any aspects of the terms and conditions.\n\nClassima reserves the right to change or modify membership packages, including their price and contents.\n\nClassima isn't obligated to refund services or money if a membership package is canceled early, for any reason whatsoever."
+    },
+    {
+      "paraTitle": "Disclaimer",
+      "paraData": "Classima and radisutheme.com assume no responsibility whatsoever for the use of Classima and disclaims all responsibility for any claim, injury, damage, or liability of any kind resulting from, or arising out of, or any way related to (a) any errors on Classima or the Content, including but not limited to typographical errors and technical errors, (b) any third party websites or content directly or indirectly accessed or retrieved through links in Classima, (c) the unavailability of Classima, (d) your use of Classima or the Content, or (e) your use of any equipment (or software) in connection with Classima."
+    },
+    {
+      "paraTitle": "Indemnification",
+      "paraData": "Advertisers and other users agree to indemnify Classima and RadiusTheme as well as its employees, agents, officers, directors, from and against all expenses, losses, damages, and costs, including attorney's fees, arising from any violation of these Terms and Conditions (including negligent or wrongful conduct)."
+    },
+    {
+      "paraTitle": "Modifications",
+      "paraData": "Classima and RadiusTheme reserve the right to alter or modify these Terms and Conditions. Such alteration or modifications shall be effective immediately upon posting on Classima. You are responsible for regularly reviewing for such modifications. Your continued access or use of Classima shall be deemed to be your acceptance of the modified terms and conditions."
+    },
+    {
+      "paraTitle": "Governing Law",
+      "paraData": "Classima is operated under the laws and regulations of respective country."
+    }
+  ],
+  "relativeTime": {
+    "future": "%s পর",
+    "past": "%s আগে",
+    "s": "কয়েক সেকেন্ড",
+    "m": "এক মিনিট",
+    "mm": "%d মিনিট",
+    "h": "এক ঘণ্টা",
+    "hh": "%d ঘণ্টা",
+    "d": "এক দিন",
+    "dd": "%d দিন",
+    "M": "এক মাস",
+    "MM": "%d মাস",
+    "y": "এক বছর",
+    "yy": "%d বছর"
+  }
+}
